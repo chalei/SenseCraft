@@ -99,7 +99,7 @@ class UI : public Thread {
     struct LoRaBandInfo lora_band_info[3] = {
         {"US", "915", "North America", 2},
         {"EU", "868", "European Region", 1},
-        {"AU", "915", "Australia", 9},
+        {"ID", "923", "Indonesia", 4},
     };
 
     struct NetworkState n_state = {0, {0, false, 0}, {0, false, 0}};
