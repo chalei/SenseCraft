@@ -1,5 +1,5 @@
 
-# SenseCraft - The Project of No-Code Smart Sensor Builder
+# SenseCraft - The Project of No-Code Smart Sensor Builder, This one custom tailored to support Indonesia AS923_2 Band
 
 ## Description 
 
